@@ -1,5 +1,6 @@
 .shows {
   display: flex;
+  list-style: none;
 }
 
 .show {
